@@ -12,7 +12,7 @@ It’s a **vertical survival platformer** game where:
 ### 🕹️ **How to Play:**
 
 1. **Open the game:**
-   👉 [https://memesoondev.github.io/ball-game/](https://memesoondev.github.io/ball-game/)
+   👉 [https://cnzenapps.github.io/ball-game/](https://memesoondev.github.io/ball-game/)
 
 2. **Controls:**
 
