@@ -31,7 +31,3 @@ It’s a **vertical survival platformer** game where:
 * Always keep moving and look for openings below.
 * Don’t pause too long on one platform.
 * Quick reactions = more time before reaching the top!
-
----
-
-Would you like a short guide or tutorial on how to make a game like this using JavaScript and canvas؟ 🎮💻
