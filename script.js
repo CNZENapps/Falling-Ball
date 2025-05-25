@@ -56,13 +56,13 @@ var blocks = setInterval(function(){
         currentBlocks.push(counter);
         counter++;
         counter++;
-        document.getElementById("score").innerText = "Score: " + (counter);
+        document.getElementById("score").innerText = "Score: " + counter;
     }
     var characterTop = parseInt(window.getComputedStyle(character).getPropertyValue("top"));
     var characterLeft = parseInt(window.getComputedStyle(character).getPropertyValue("left"));
     var drop = 0;
     if(characterTop <= 0){
-        alert("Game over. Score: "+(counter-9));
+        alert("Game over. Score: "+ counter);
         clearInterval(blocks);
         location.reload();
     }
