@@ -55,6 +55,9 @@ var blocks = setInterval(function(){
         game.appendChild(hole);
         currentBlocks.push(counter);
         counter++;
+currentBlocks.push(counter);
+counter++;
+document.getElementById("score").innerText = "Score: " + (counter - 9);
     }
     var characterTop = parseInt(window.getComputedStyle(character).getPropertyValue("top"));
     var characterLeft = parseInt(window.getComputedStyle(character).getPropertyValue("left"));
